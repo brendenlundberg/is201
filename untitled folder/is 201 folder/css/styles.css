@@ -1,0 +1,42 @@
+body{
+    background-image: url('https://img.pikbest.com/backgrounds/20200326/seamless-pattern-with-symmetric-geometric-lines-on-the-navy-blue-background--v_1732140jpg!w700wp') ;
+    color: white;
+    font-family:cursive; 
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h5{
+    text-align: center;
+    font-style:italic;
+}
+a{
+    color:hotpink
+}
+a:visited{
+    color:turquoise
+}
+img{
+    border: 15px solid fuchsia;
+    padding: 3px;
+    margin: 5px; 
+    /*centers stuff*/
+    display: block;
+    margin: auto ; 
+}
+.rizz{
+    font-family: chiller, 'Comic Sans MS';
+    color:blueviolet;
+    background-color: cornsilk;
+    border: 8px dashed olivedrab;
+    font-size: 36 pt;
+    font-style: italic;
+}
+.rizz:hover{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: tomato;
+    font-size: 48 pt;
+    background-color: mediumturquoise;
+    border: solid hotpink ;
+}
